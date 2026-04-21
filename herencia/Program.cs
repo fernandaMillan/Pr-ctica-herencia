@@ -1,16 +1,18 @@
 ﻿using System;
 
-class ComidaMexicana
+abstract class ComidaMexicana
 {
     public void PrepararBase()
     {
-        Console.WriteLine("Tortilla + salsa + +pollo + ingredientes base");
+        Console.WriteLine("Tortilla + salsa + ingredientes base");
     }
+
+    public abstract void Servir();
 }
 
 class Taco : ComidaMexicana
 {
-    public void Servir()
+    public override void Servir()
     {
         Console.WriteLine("Sirviendo taco");
     }
@@ -18,7 +20,7 @@ class Taco : ComidaMexicana
 
 class Sope : ComidaMexicana
 {
-    public void Servir()
+    public override void Servir()
     {
         Console.WriteLine("Sirviendo sope");
     }
