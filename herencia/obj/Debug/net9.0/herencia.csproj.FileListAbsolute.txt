@@ -1,0 +1,14 @@
+c:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\bin\Debug\net9.0\herencia.exe
+C:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\bin\Debug\net9.0\herencia.deps.json
+C:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\bin\Debug\net9.0\herencia.runtimeconfig.json
+c:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\bin\Debug\net9.0\herencia.dll
+c:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\bin\Debug\net9.0\herencia.pdb
+c:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\obj\Debug\net9.0\herencia.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\obj\Debug\net9.0\herencia.AssemblyInfoInputs.cache
+c:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\obj\Debug\net9.0\herencia.AssemblyInfo.cs
+c:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\obj\Debug\net9.0\herencia.csproj.CoreCompileInputs.cache
+c:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\obj\Debug\net9.0\herencia.dll
+c:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\obj\Debug\net9.0\refint\herencia.dll
+c:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\obj\Debug\net9.0\herencia.pdb
+C:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\obj\Debug\net9.0\herencia.genruntimeconfig.cache
+C:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\obj\Debug\net9.0\ref\herencia.dll
