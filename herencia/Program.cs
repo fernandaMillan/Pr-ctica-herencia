@@ -4,7 +4,7 @@ class ComidaMexicana
 {
     public void PrepararBase()
     {
-        Console.WriteLine("Tortilla + salsa + ingredientes base");
+        Console.WriteLine("Tortilla + salsa + +pollo + ingredientes base");
     }
 }
 
