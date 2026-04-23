@@ -1,0 +1,31 @@
+abstract class Personaje
+{
+    public string Nombre;
+
+    public Personaje(string nombre)
+    {
+        Nombre = nombre;
+    }
+
+    public abstract void Atacar();
+}
+
+class Guerrero : Personaje
+{
+    public Guerrero(string nombre) : base(nombre) {}
+
+    public override void Atacar()
+    {
+        Console.WriteLine($"{Nombre} ataca con espada");
+    }
+}
+
+class Mago : Personaje
+{
+    public Mago(string nombre) : base(nombre) {}
+
+    public override void Atacar()
+    {
+        Console.WriteLine($"{Nombre} lanza un hechizo");
+    }
+}

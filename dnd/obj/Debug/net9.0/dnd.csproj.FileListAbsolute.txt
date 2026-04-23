@@ -13,3 +13,18 @@ C:\Users\furci\Documents\POO 2026\Práctica herencia\dnd\obj\Debug\net9.0\refint
 C:\Users\furci\Documents\POO 2026\Práctica herencia\dnd\obj\Debug\net9.0\dnd.pdb
 C:\Users\furci\Documents\POO 2026\Práctica herencia\dnd\obj\Debug\net9.0\dnd.genruntimeconfig.cache
 C:\Users\furci\Documents\POO 2026\Práctica herencia\dnd\obj\Debug\net9.0\ref\dnd.dll
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\dnd\bin\Debug\net9.0\dnd.exe
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\dnd\bin\Debug\net9.0\dnd.deps.json
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\dnd\bin\Debug\net9.0\dnd.runtimeconfig.json
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\dnd\bin\Debug\net9.0\dnd.dll
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\dnd\bin\Debug\net9.0\dnd.pdb
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\dnd\obj\Debug\net9.0\dnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\dnd\obj\Debug\net9.0\dnd.AssemblyInfoInputs.cache
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\dnd\obj\Debug\net9.0\dnd.AssemblyInfo.cs
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\dnd\obj\Debug\net9.0\dnd.csproj.CoreCompileInputs.cache
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\dnd\obj\Debug\net9.0\dnd.sourcelink.json
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\dnd\obj\Debug\net9.0\dnd.dll
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\dnd\obj\Debug\net9.0\refint\dnd.dll
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\dnd\obj\Debug\net9.0\dnd.pdb
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\dnd\obj\Debug\net9.0\dnd.genruntimeconfig.cache
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\dnd\obj\Debug\net9.0\ref\dnd.dll

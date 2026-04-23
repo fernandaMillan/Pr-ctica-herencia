@@ -12,3 +12,18 @@ c:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\obj\Debug\net9.0\r
 c:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\obj\Debug\net9.0\herencia.pdb
 C:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\obj\Debug\net9.0\herencia.genruntimeconfig.cache
 C:\Users\furci\Documents\POO 2026\Práctica herencia\herencia\obj\Debug\net9.0\ref\herencia.dll
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\herencia\bin\Debug\net9.0\herencia.exe
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\herencia\bin\Debug\net9.0\herencia.deps.json
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\herencia\bin\Debug\net9.0\herencia.runtimeconfig.json
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\herencia\bin\Debug\net9.0\herencia.dll
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\herencia\bin\Debug\net9.0\herencia.pdb
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\herencia\obj\Debug\net9.0\herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\herencia\obj\Debug\net9.0\herencia.AssemblyInfoInputs.cache
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\herencia\obj\Debug\net9.0\herencia.AssemblyInfo.cs
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\herencia\obj\Debug\net9.0\herencia.csproj.CoreCompileInputs.cache
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\herencia\obj\Debug\net9.0\herencia.sourcelink.json
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\herencia\obj\Debug\net9.0\herencia.dll
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\herencia\obj\Debug\net9.0\refint\herencia.dll
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\herencia\obj\Debug\net9.0\herencia.pdb
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\herencia\obj\Debug\net9.0\herencia.genruntimeconfig.cache
+C:\Users\furci\Documents\Herencia\Pr-ctica-herencia\herencia\obj\Debug\net9.0\ref\herencia.dll

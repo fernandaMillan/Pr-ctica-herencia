@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\furci\\Documents\\POO 2026\\Práctica herencia\\dnd\\dnd.csproj",
+      "projectUniqueName": "C:\\Users\\furci\\Documents\\Herencia\\Pr-ctica-herencia\\dnd\\dnd.csproj",
       "projectName": "dnd",
-      "projectPath": "C:\\Users\\furci\\Documents\\POO 2026\\Práctica herencia\\dnd\\dnd.csproj",
+      "projectPath": "C:\\Users\\furci\\Documents\\Herencia\\Pr-ctica-herencia\\dnd\\dnd.csproj",
       "packagesPath": "C:\\Users\\furci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\furci\\Documents\\POO 2026\\Práctica herencia\\dnd\\obj\\",
+      "outputPath": "C:\\Users\\furci\\Documents\\Herencia\\Pr-ctica-herencia\\dnd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

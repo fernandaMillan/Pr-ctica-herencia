@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\furci\\Documents\\POO 2026\\Práctica herencia\\herencia\\herencia.csproj": {}
+    "C:\\Users\\furci\\Documents\\Herencia\\Pr-ctica-herencia\\herencia\\herencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\furci\\Documents\\POO 2026\\Práctica herencia\\herencia\\herencia.csproj": {
+    "C:\\Users\\furci\\Documents\\Herencia\\Pr-ctica-herencia\\herencia\\herencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\furci\\Documents\\POO 2026\\Práctica herencia\\herencia\\herencia.csproj",
+        "projectUniqueName": "C:\\Users\\furci\\Documents\\Herencia\\Pr-ctica-herencia\\herencia\\herencia.csproj",
         "projectName": "herencia",
-        "projectPath": "C:\\Users\\furci\\Documents\\POO 2026\\Práctica herencia\\herencia\\herencia.csproj",
+        "projectPath": "C:\\Users\\furci\\Documents\\Herencia\\Pr-ctica-herencia\\herencia\\herencia.csproj",
         "packagesPath": "C:\\Users\\furci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\furci\\Documents\\POO 2026\\Práctica herencia\\herencia\\obj\\",
+        "outputPath": "C:\\Users\\furci\\Documents\\Herencia\\Pr-ctica-herencia\\herencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\furci\\Documents\\Herencia\\Pr-ctica-herencia\\herencia\\herencia.csproj",
-      "projectName": "herencia",
-      "projectPath": "C:\\Users\\furci\\Documents\\Herencia\\Pr-ctica-herencia\\herencia\\herencia.csproj",
+      "projectUniqueName": "C:\\Users\\furci\\Documents\\Herencia\\Pr-ctica-herencia\\dndnondesign\\dndnondesign.csproj",
+      "projectName": "dndnondesign",
+      "projectPath": "C:\\Users\\furci\\Documents\\Herencia\\Pr-ctica-herencia\\dndnondesign\\dndnondesign.csproj",
       "packagesPath": "C:\\Users\\furci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\furci\\Documents\\Herencia\\Pr-ctica-herencia\\herencia\\obj\\",
+      "outputPath": "C:\\Users\\furci\\Documents\\Herencia\\Pr-ctica-herencia\\dndnondesign\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
